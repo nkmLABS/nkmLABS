@@ -1,6 +1,7 @@
 # Niklas Maroldt
-> It seems you've made your way through the internet and you found...  
-> ... a currently work in progress profile page. But feel free to check out my latest projects. :)
+> [!NOTE]
+> Unfortunately, I am too busy to create an exciting profile landing page.
+> Feel free to check out my latest projects, though. :)
 
 ## Latest projects
 * [mc-inspect](https://github.com/nkmLABS/mc-inspect)  
